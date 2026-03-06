@@ -12,10 +12,9 @@ const STATS = [
 ];
 
 const IDENTITY_LINES = [
-    'Applied AI Engineer',
-    'Systems Builder',
-    'ML Pipeline Architect',
-    'LLM Systems Developer',
+    'AI Engineer',
+    'Data Scientist',
+    'Data Analyst',
 ];
 
 const HeroEntryInterface = () => {
@@ -212,17 +211,17 @@ const HeroEntryInterface = () => {
                                 <ExternalLink className="w-3 h-3 text-white/20 ml-auto" />
                             </div>
                             <div className="terminal-body text-xs leading-[1.9]">
-                                <div className="text-[#8b5cf6]">class <span className="text-[#00d4ff]">AppliedAIEngineer</span>:</div>
+                                <div className="text-[#8b5cf6]">class <span className="text-[#00d4ff]">ParthShewale</span>:</div>
                                 <div className="pl-4 text-white/50">  <span className="text-[#8b5cf6]">def</span> <span className="text-[#fbbf24]">__init__</span>(self):</div>
                                 <div className="pl-8 text-white/60">self.name = <span className="text-[#10b981]">"Parth Shewale"</span></div>
-                                <div className="pl-8 text-white/60">self.identity = <span className="text-[#10b981]">"Applied AI Engineer"</span></div>
-                                <div className="pl-8 text-white/60">self.focus = <span className="text-[#10b981]">["Systems", "Deployment", "Impact"]</span></div>
+                                <div className="pl-8 text-white/60">self.roles = <span className="text-[#10b981]">["AI Engineer", "Data Scientist", "Data Analyst"]</span></div>
+                                <div className="pl-8 text-white/60">self.focus = <span className="text-[#10b981]">["ML", "Data", "AI Systems"]</span></div>
                                 <div className="pl-8 text-white/60">self.stack = <span className="text-[#10b981]">["Python", "PyTorch", "LangChain", "FastAPI"]</span></div>
                                 <div className="mt-2 text-white/30">&nbsp;</div>
                                 <div className="pl-4 text-white/50">  <span className="text-[#8b5cf6]">def</span> <span className="text-[#fbbf24]">philosophy</span>(self):</div>
-                                <div className="pl-8 text-[#10b981]">return <span className="text-white/60">"Systems {'>'} Models | Deployment {'>'} Theory"</span></div>
+                                <div className="pl-8 text-[#10b981]">return <span className="text-white/60">"Data {'>'} Insights | Models {'>'} Impact"</span></div>
                                 <div className="mt-2 text-white/30">&nbsp;</div>
-                                <div className="text-white/40"><span className="text-[#00d4ff]">parth</span> = AppliedAIEngineer()</div>
+                                <div className="text-white/40"><span className="text-[#00d4ff]">parth</span> = ParthShewale()</div>
                                 <div className="flex items-center gap-1 text-white/40">
                                     <span className="text-[#00d4ff]">&gt;&gt;&gt;</span> parth.philosophy()
                                     <span className="animate-blink text-[#00d4ff] ml-1">█</span>
