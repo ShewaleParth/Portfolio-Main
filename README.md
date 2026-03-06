@@ -9,7 +9,7 @@
 
 **A sci-fi themed, interactive portfolio showcasing AI/ML projects, skills, and engineering experience.**
 
-[🌐 Live Demo](#) • [📄 Resume](#) • [💼 LinkedIn](https://linkedin.com/in/parth-shewale) • [🐙 GitHub](https://github.com/ShewaleParth)
+[🌐 Live Demo](#) • [💼 LinkedIn](https://linkedin.com/in/parth-shewale) • [🐙 GitHub](https://github.com/ShewaleParth)
 
 </div>
 
@@ -106,7 +106,7 @@ VITE_SUPABASE_PROJECT_ID=your_supabase_project_id
 npm run dev
 ```
 
-Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
+Open [[(https://parthshewale.vercel.app/)](http://localhost:8080)] to view it in the browser.
 
 ---
 
